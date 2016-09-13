@@ -1,0 +1,26 @@
+Reflect: Using diff to Find Bugs
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+
+Reflect: Multi-File Commits
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+
+Reflect: Multi-File Commits
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+
+Reflect: Multi-File Commits
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+
+Reflect: Using Git to View History
+How can you use the commands git log and git diff to view the history of files?
+
+
+Reflect: Confidence from Version Control
+How might using version control make you more confident to make changes that could break something?
+
+
+Reflect: How Do You Want to Use Git?
+Now that you have your workspace set up, what do you want to try using Git for?
