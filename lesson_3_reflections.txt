@@ -14,3 +14,7 @@ Reflect: Local copies of remote branches
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 
+Reflect: Collaboration using Git and GitHub
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+
